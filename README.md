@@ -8,6 +8,14 @@ I believe that data can often hold hidden information that is not immediately vi
 
 This repository serves to showcase my skills and knowledge in data analytics while sharing my projects with others. It also provides a way in the future to track my progress in this field.
 
+## Projects
+
+### UFO Sightings Report
+**PowerBI:** [`powerbi_project.pbix`](https://github.com/pzukas-data/ufo_sightings_report/blob/main/powerbi_project.pbix)    
+**Description:** My attempt to visualize UFO sightings data    
+**Skills:** PowerBI, Power Query    
+
+
 
 ## Certificates
 I believe that the best way to display your skills is through the work you produce and share. That being said, sometimes certificates can paint a bigger picture. This list is outgoing, as I'm not only striving to build a strong foundation but also searching for ways to improve and innovate.

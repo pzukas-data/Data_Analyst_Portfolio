@@ -12,7 +12,7 @@ This repository serves to showcase my skills and knowledge in data analytics whi
 
 ### UFO Sightings Report
 **PowerBI:** [`powerbi_project.pbix`](https://github.com/pzukas-data/ufo_sightings_report/blob/main/powerbi_project.pbix)    
-**Description:** My attempt to visualize UFO sightings data    
+**Description:** My attempt to visualize UFO sightings data. Sourced from Kaggle.com the dataset was scraped, geolocated, and time-standardized from NUFORC (The National UFO Reporting Center). Completed during Data Analytics studies at Vilnius CODING School for PowerBI course.    
 **Skills:** PowerBI, Power Query    
 
 
@@ -20,6 +20,7 @@ This repository serves to showcase my skills and knowledge in data analytics whi
 ## Certificates
 I believe that the best way to display your skills is through the work you produce and share. That being said, sometimes certificates can paint a bigger picture. This list is outgoing, as I'm not only striving to build a strong foundation but also searching for ways to improve and innovate.
 
+- [Vilnius CODING School Data Analytics Course](https://drive.google.com/file/d/1_PYsBCNrQi55aFmplnrRZCs_xu3hDnhz/view?usp=sharing) (Apr 2023)
 - [Power BI Essential Training](https://drive.google.com/file/d/1ajLlp4Y87nu15yESQBddONgrY4nLM2E7/view?usp=sharing) (Jan 2023) (Linkedin learning)
 - [Excel Essential Training (Microsoft 365)](https://drive.google.com/file/d/1OcfLl0hBgJprQshkKSIsY21P_HwVrbEI/view?usp=sharing) (Jan 2023) (Linkedin learning)
 - [Data Visualization for Data Analysis and Analytics](https://drive.google.com/file/d/1PaakFriC5wFw0G3GEVggXk_mR8LzneT1/view?usp=sharing) (Nov 2022) (Linkedin learning)

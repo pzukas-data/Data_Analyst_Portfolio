@@ -10,10 +10,15 @@ This repository serves to showcase my skills and knowledge in data analytics whi
 
 ## Projects
 
+### Price Tracker
+**Python:** [`price_scraper.py`](https://github.com/pzukas-data/price_tracker/blob/main/price_scraper.py)    
+**Description:** The goal of this project was to create a tool that scrapes data from four Lithuanian websites selling a specific air conditioner model and and stores the data in a MySQL database. Completed during Data Analytics studies at Vilnius CODING School for Python course.   
+**Skills:** Python, MySQL, Webscraping   
+
 ### UFO Sightings Report
 **PowerBI:** [`powerbi_project.pbix`](https://github.com/pzukas-data/ufo_sightings_report/blob/main/powerbi_project.pbix)    
-**Description:** My attempt to visualize UFO sightings data. Sourced from Kaggle.com the dataset was scraped, geolocated, and time-standardized from NUFORC (The National UFO Reporting Center). Completed during Data Analytics studies at Vilnius CODING School for PowerBI course.    
-**Skills:** PowerBI, Power Query    
+**Description:** My attempt to visualize UFO sightings data. Sourced from Kaggle.com the dataset was scraped, geolocated, and time-standardized from NUFORC (The National UFO Reporting Center). Completed during Data Analytics studies at Vilnius CODING School for PowerBI course.     
+**Skills:** PowerBI, Power Query
 
 
 

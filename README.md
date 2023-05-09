@@ -6,7 +6,7 @@ Hi, I'm Paulius! I'm currently on a journey to turn my passion for data into a c
 
 I believe that data can often hold hidden information that is not immediately visible. It is only by asking the right questions and analyzing the data that we can pull valuable insights and make smarter decisions.
 
-This repository serves to showcase my skills and knowledge in data analytics while sharing my projects with others. It also provides a way in the future to track my progress in this field.
+This repository serves to showcase my skills and knowledge in data analytics while sharing my projects with others. It also provides a way to track my progress in this field.
 
 ## Projects
 

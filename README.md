@@ -30,3 +30,13 @@ I believe that the best way to display your skills is through the work you produ
 - [Excel Essential Training (Microsoft 365)](https://drive.google.com/file/d/1OcfLl0hBgJprQshkKSIsY21P_HwVrbEI/view?usp=sharing) (Jan 2023) (Linkedin learning)
 - [Data Visualization for Data Analysis and Analytics](https://drive.google.com/file/d/1PaakFriC5wFw0G3GEVggXk_mR8LzneT1/view?usp=sharing) (Nov 2022) (Linkedin learning)
 - [Data Visualization Tips and Tricks](https://drive.google.com/file/d/1c4a5gsKYJQWJTZIoaHAQ4KX6bAR5ii4C/view?usp=sharing) (Nov 2022) (Linkedin learning)
+
+## Technologies
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>](https://powerbi.microsoft.com/)
+
+
+
+

@@ -26,6 +26,8 @@ This repository serves to showcase my skills and knowledge in data analytics whi
 I believe that the best way to display your skills is through the work you produce and share. That being said, sometimes certificates can paint a bigger picture. This list is outgoing, as I'm not only striving to build a strong foundation but also searching for ways to improve and innovate.
 
 - [Vilnius CODING School Data Analytics Course](https://drive.google.com/file/d/1_PYsBCNrQi55aFmplnrRZCs_xu3hDnhz/view?usp=sharing) (Apr 2023)
+- [Learning BigQuery](https://drive.google.com/file/d/1iXI4f8X7D2urmNff0pbyNWAztAtHEPe4/view?usp=sharing) (May 2023) (Linkedin learning)
+- [MySQL Advanced Topics](https://drive.google.com/file/d/1z_zjv76xE83vsvwDhOQWzsfg8aWeMCzS/view?usp=sharing) (Apr 2023) (Linkedin learning)
 - [Power BI Essential Training](https://drive.google.com/file/d/1ajLlp4Y87nu15yESQBddONgrY4nLM2E7/view?usp=sharing) (Jan 2023) (Linkedin learning)
 - [Excel Essential Training (Microsoft 365)](https://drive.google.com/file/d/1OcfLl0hBgJprQshkKSIsY21P_HwVrbEI/view?usp=sharing) (Jan 2023) (Linkedin learning)
 - [Data Visualization for Data Analysis and Analytics](https://drive.google.com/file/d/1PaakFriC5wFw0G3GEVggXk_mR8LzneT1/view?usp=sharing) (Nov 2022) (Linkedin learning)
